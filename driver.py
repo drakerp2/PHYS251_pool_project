@@ -12,7 +12,7 @@ Assignment: project
 import matplotlib as mpl # matplotlib-3.10.0
 from matplotlib import pyplot as plt 
 
-from project.pool_table import pool_table
+from pool_table import pool_table
 
 table = pool_table()
 
